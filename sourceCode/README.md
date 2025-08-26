@@ -1,0 +1,4 @@
+
+# Vietnamese license plate recognition
+
+This project is a Python program which can detect various Vietnamese vehicle license plates. To use this program, you must first install various modules in the environment file. First, open the terminal in the project folder not outside. Second, run the command "conda env create -f environment.yml", the run this command to activate the environment "conda activate lp_recognition_env". To run this program, open the "main_image.py", change the variable named "image_path" to the desired image, remember to put the image path into a string. Run that file to detect Vietnamese license plates in an image.
